@@ -4,6 +4,8 @@ namespace BinarySearchTreeImplementation
     public class BinarySearchTree
     {
         Node root;
+        int kth;
+        int i=0;
 
         public  BinarySearchTree()
         {
@@ -60,8 +62,10 @@ namespace BinarySearchTreeImplementation
         {
             Console.WriteLine("InOrder");//sorted format
             inOrder(root);
+            Console.WriteLine();
             Console.WriteLine("PreOrder");
              preOrder(root);
+            Console.WriteLine();
             Console.WriteLine("PostOrder");
             postOrder(root);
 
@@ -72,9 +76,31 @@ namespace BinarySearchTreeImplementation
             if (root == null)
                 return;
 
-            inOrder(root.left);
-            Console.Write(" " + root.data +" ");
             inOrder(root.right);
+            Console.Write(" " + root.data +" ");
+            inOrder(root.left);
+        }
+
+        public void KthLargestElement(int k)
+        {
+            Console.WriteLine(k+"th Largest Element ");
+            kth = k;
+            KthLargestElement(root);
+        }
+
+        public void KthLargestElement(Node root)
+        {
+            if (root == null)
+                return;
+
+            KthLargestElement(root.right);
+            i++;
+            //Console.WriteLine("kth : "+i);
+            if (kth == i)
+            { Console.Write(kth + "th Laregst element => " + root.data);
+                Console.WriteLine();
+            }
+            KthLargestElement(root.left);
         }
 
         public void preOrder(Node root)

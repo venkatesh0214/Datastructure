@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AEB6726B-9D8F-4A8B-A6D4-2030D7092EBA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphImplementation/Program.cs">
+    <Files>
+      <File FileName="GraphImplementation/Program.cs" Line="70" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GraphImplementation" expanded="True">
+            <Node name="GraphImplementation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GraphImplementation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

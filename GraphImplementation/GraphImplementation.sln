@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphImplementation", "GraphImplementation\GraphImplementation.csproj", "{AEB6726B-9D8F-4A8B-A6D4-2030D7092EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB6726B-9D8F-4A8B-A6D4-2030D7092EBA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{AEB6726B-9D8F-4A8B-A6D4-2030D7092EBA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{AEB6726B-9D8F-4A8B-A6D4-2030D7092EBA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{AEB6726B-9D8F-4A8B-A6D4-2030D7092EBA}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

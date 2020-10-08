@@ -1,0 +1,6 @@
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/MatrixProblem/MatrixProblem/bin/Debug/MatrixProblem.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/MatrixProblem/MatrixProblem/bin/Debug/MatrixProblem.pdb
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/MatrixProblem/MatrixProblem/obj/Debug/MatrixProblem.csprojAssemblyReference.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/MatrixProblem/MatrixProblem/obj/Debug/MatrixProblem.csproj.CoreCompileInputs.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/MatrixProblem/MatrixProblem/obj/Debug/MatrixProblem.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/MatrixProblem/MatrixProblem/obj/Debug/MatrixProblem.pdb

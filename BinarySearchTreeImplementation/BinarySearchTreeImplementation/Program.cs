@@ -17,15 +17,18 @@ namespace BinarySearchTreeImplementation
             Console.WriteLine("BST values ! ");
             bst.display();
 
+            Console.WriteLine();
+            bst.KthLargestElement(6);
+
             Console.WriteLine("bst.search(6) " + bst.search(6).ToString());
-            Console.WriteLine("bst.search(8) " + bst.search(8).ToString());
+            /*Console.WriteLine("bst.search(8) " + bst.search(8).ToString());
             Console.WriteLine("bst.search(14) " + bst.search(14).ToString());
             Console.WriteLine("bst.search(9) " + bst.search(9).ToString());
             Console.WriteLine("bst.search(7) " + bst.search(7).ToString());
             Console.WriteLine("bst.search(5) " + bst.search(5).ToString());
             Console.WriteLine("bst.search(30) " + bst.search(3).ToString());
             Console.WriteLine("bst.search(21) " + bst.search(21).ToString());
-            Console.WriteLine("bst.search(3) " + bst.search(3).ToString());
+            Console.WriteLine("bst.search(3) " + bst.search(3).ToString());*/
             Console.ReadLine();
         }
     }
