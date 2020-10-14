@@ -1,0 +1,6 @@
+/Users/venkateshkannankaruppaiah/Projects/CoinChange/CoinChange/bin/Debug/CoinChange.exe
+/Users/venkateshkannankaruppaiah/Projects/CoinChange/CoinChange/bin/Debug/CoinChange.pdb
+/Users/venkateshkannankaruppaiah/Projects/CoinChange/CoinChange/obj/Debug/CoinChange.csprojAssemblyReference.cache
+/Users/venkateshkannankaruppaiah/Projects/CoinChange/CoinChange/obj/Debug/CoinChange.exe
+/Users/venkateshkannankaruppaiah/Projects/CoinChange/CoinChange/obj/Debug/CoinChange.pdb
+/Users/venkateshkannankaruppaiah/Projects/CoinChange/CoinChange/obj/Debug/CoinChange.csproj.CoreCompileInputs.cache

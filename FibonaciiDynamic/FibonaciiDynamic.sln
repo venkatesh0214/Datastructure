@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonaciiDynamic", "FibonaciiDynamic\FibonaciiDynamic.csproj", "{B4269A7F-001B-4702-9E08-8BC657C1665B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4269A7F-001B-4702-9E08-8BC657C1665B}.Debug|x86.ActiveCfg = Debug|x86
+		{B4269A7F-001B-4702-9E08-8BC657C1665B}.Debug|x86.Build.0 = Debug|x86
+		{B4269A7F-001B-4702-9E08-8BC657C1665B}.Release|x86.ActiveCfg = Release|x86
+		{B4269A7F-001B-4702-9E08-8BC657C1665B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

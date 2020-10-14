@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleHasCode", "GoogleHasCode\GoogleHasCode.csproj", "{44175907-66FA-47DA-8CFA-51FFD2E80284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44175907-66FA-47DA-8CFA-51FFD2E80284}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{44175907-66FA-47DA-8CFA-51FFD2E80284}.Debug|anycpu.Build.0 = Debug|anycpu
+		{44175907-66FA-47DA-8CFA-51FFD2E80284}.Release|anycpu.ActiveCfg = Release|anycpu
+		{44175907-66FA-47DA-8CFA-51FFD2E80284}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

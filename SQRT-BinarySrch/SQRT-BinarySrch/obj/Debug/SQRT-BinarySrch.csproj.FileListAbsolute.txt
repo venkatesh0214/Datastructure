@@ -1,0 +1,5 @@
+/Users/venkateshkannankaruppaiah/Projects/SQRT-BinarySrch/SQRT-BinarySrch/bin/Debug/SQRT-BinarySrch.exe
+/Users/venkateshkannankaruppaiah/Projects/SQRT-BinarySrch/SQRT-BinarySrch/bin/Debug/SQRT-BinarySrch.pdb
+/Users/venkateshkannankaruppaiah/Projects/SQRT-BinarySrch/SQRT-BinarySrch/obj/Debug/SQRT-BinarySrch.csprojAssemblyReference.cache
+/Users/venkateshkannankaruppaiah/Projects/SQRT-BinarySrch/SQRT-BinarySrch/obj/Debug/SQRT-BinarySrch.exe
+/Users/venkateshkannankaruppaiah/Projects/SQRT-BinarySrch/SQRT-BinarySrch/obj/Debug/SQRT-BinarySrch.pdb

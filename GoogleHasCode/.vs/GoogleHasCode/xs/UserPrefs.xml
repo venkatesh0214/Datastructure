@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{44175907-66FA-47DA-8CFA-51FFD2E80284}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoogleHasCode/Program.cs">
+    <Files>
+      <File FileName="GoogleHasCode/Program.cs" Line="66" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoogleHasCode" expanded="True">
+            <Node name="GoogleHasCode" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Venkatesh/Workspace/DotNet/CombinationProblem/CombinationProblem/Program.cs" line="33" offsetX="643" offsetY="414" expression="data" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.GoogleHasCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

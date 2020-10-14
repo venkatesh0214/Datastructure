@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{FA088C94-DB8A-40BF-9BE9-32C6D3C1E6DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA088C94-DB8A-40BF-9BE9-32C6D3C1E6DA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FA088C94-DB8A-40BF-9BE9-32C6D3C1E6DA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FA088C94-DB8A-40BF-9BE9-32C6D3C1E6DA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FA088C94-DB8A-40BF-9BE9-32C6D3C1E6DA}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

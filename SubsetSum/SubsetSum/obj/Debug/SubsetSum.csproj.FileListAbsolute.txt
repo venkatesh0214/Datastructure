@@ -1,0 +1,6 @@
+/Users/venkateshkannankaruppaiah/Projects/SubsetSum/SubsetSum/bin/Debug/SubsetSum.exe
+/Users/venkateshkannankaruppaiah/Projects/SubsetSum/SubsetSum/bin/Debug/SubsetSum.pdb
+/Users/venkateshkannankaruppaiah/Projects/SubsetSum/SubsetSum/obj/Debug/SubsetSum.csprojAssemblyReference.cache
+/Users/venkateshkannankaruppaiah/Projects/SubsetSum/SubsetSum/obj/Debug/SubsetSum.exe
+/Users/venkateshkannankaruppaiah/Projects/SubsetSum/SubsetSum/obj/Debug/SubsetSum.pdb
+/Users/venkateshkannankaruppaiah/Projects/SubsetSum/SubsetSum/obj/Debug/SubsetSum.csproj.CoreCompileInputs.cache

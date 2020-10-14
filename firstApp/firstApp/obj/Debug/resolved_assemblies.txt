@@ -1,0 +1,11 @@
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/firstApp.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/Java.Interop.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/Mono.Android.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/mscorlib.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/System.Core.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/System.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/System.Xml.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/System.Net.Http.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/venkateshkannankaruppaiah/Projects/firstApp/firstApp/obj/Debug/android/assets/Mono.Security.dll

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E5A06448-20A9-4012-8702-1DE357BF0926}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQRT-BinarySrch/Program.cs">
+    <Files>
+      <File FileName="SQRT-BinarySrch/Program.cs" Line="5" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SQRT-BinarySrch" expanded="True" selected="True">
+            <Node name="SQRT-BinarySrch" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.SQRT-BinarySrch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

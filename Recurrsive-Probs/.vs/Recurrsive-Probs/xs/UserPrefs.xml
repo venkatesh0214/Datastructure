@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6B4ACE81-8DBF-4E1F-A0B1-6AEFE7937EFD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Recurrsive-Probs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Recurrsive-Probs/Program.cs">
+    <Files>
+      <File FileName="../Array/Array/Program.cs" Line="34" Column="30" />
+      <File FileName="Recurrsive-Probs/Program.cs" Line="49" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Recurrsive-Probs" expanded="True">
+            <Node name="Recurrsive-Probs" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
