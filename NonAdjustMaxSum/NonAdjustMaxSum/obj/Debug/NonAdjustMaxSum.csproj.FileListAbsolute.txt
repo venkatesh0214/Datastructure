@@ -4,3 +4,9 @@
 /Users/venkateshkannankaruppaiah/Projects/NonAdjustMaxSum/NonAdjustMaxSum/obj/Debug/NonAdjustMaxSum.csproj.CoreCompileInputs.cache
 /Users/venkateshkannankaruppaiah/Projects/NonAdjustMaxSum/NonAdjustMaxSum/obj/Debug/NonAdjustMaxSum.exe
 /Users/venkateshkannankaruppaiah/Projects/NonAdjustMaxSum/NonAdjustMaxSum/obj/Debug/NonAdjustMaxSum.pdb
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/NonAdjustMaxSum/NonAdjustMaxSum/bin/Debug/NonAdjustMaxSum.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/NonAdjustMaxSum/NonAdjustMaxSum/bin/Debug/NonAdjustMaxSum.pdb
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/NonAdjustMaxSum/NonAdjustMaxSum/obj/Debug/NonAdjustMaxSum.csprojAssemblyReference.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/NonAdjustMaxSum/NonAdjustMaxSum/obj/Debug/NonAdjustMaxSum.csproj.CoreCompileInputs.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/NonAdjustMaxSum/NonAdjustMaxSum/obj/Debug/NonAdjustMaxSum.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/NonAdjustMaxSum/NonAdjustMaxSum/obj/Debug/NonAdjustMaxSum.pdb

@@ -15,6 +15,7 @@ using System;
 class Solution
 {
     static int sum = 0;
+    static int[] dp;
 
     // Complete the maxSubsetSum function below.
     static int maxSubsetSum(int[] arr)
@@ -22,21 +23,23 @@ class Solution
 
         int l = arr.Length;
         int i = 0;
-        maxSubsetSumm(arr,l,i);
+        Console.WriteLine("MaxSum => "+maxSubsetSumm(arr,l,i));
         return 0;
 
     }
 
-    static int maxSubsetSumm(int[] arr, int l, int i)
+    static int maxSubsetSumm(int[] arr, int l, int start)
     { 
-        if (i >= l)
+        if (start >= l)
             return 0;
 
-        //int sum += arr[i];
-        Console.WriteLine(arr[i]+" " + l + " " + i);
+        if (dp[start]!=0)
+                return dp[start];
 
-        sum += maxSubsetSumm(arr, l, i );
-        return 0;
+        dp[start] = Math.Max(arr[start]+maxSubsetSumm(arr,l,start+2),maxSubsetSumm(arr,l,start+1));
+
+
+        return dp[start];
     }
 
     static void Main(string[] args)
@@ -47,6 +50,14 @@ class Solution
 
         int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp))
         ;
+
+        dp = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            dp[i] = 0;
+        }
+
+        dp[n - 1] = arr[n - 1];
         int res = maxSubsetSum(arr);
 
         //textWriter.WriteLine(res);
