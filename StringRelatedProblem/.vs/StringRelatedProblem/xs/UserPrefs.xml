@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{22061EDA-D9BD-406B-878C-A06E9B9BFCFB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringRelatedProblem/FirstUniqueChar.cs">
+    <Files>
+      <File FileName="StringRelatedProblem/Program.cs" Line="1" Column="1" />
+      <File FileName="StringRelatedProblem/FirstUniqueChar.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringRelatedProblem" expanded="True">
+            <Node name="StringRelatedProblem" expanded="True">
+              <Node name="FirstUniqueChar.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.StringRelatedProblem FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

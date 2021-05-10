@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DAE5A0E2-4052-426B-9814-AAB54F64F682}|Default">
+  <MonoDevelop.Ide.ItemProperties.CombinationProblem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CombinationProblem/DynamicPrograming.cs">
+    <Files>
+      <File FileName="CombinationProblem/Program.cs" Line="15" Column="1" />
+      <File FileName="CombinationProblem/DynamicPrograming.cs" Line="7" Column="10" />
+      <File FileName="CombinationProblem/PalindromeCheck.cs" Line="9" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CombinationProblem" expanded="True">
+            <Node name="CombinationProblem" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/Program.cs" relfile="CombinationProblem/Program.cs" line="64" column="1" />
+      <Breakpoint file="/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/Program.cs" relfile="CombinationProblem/Program.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

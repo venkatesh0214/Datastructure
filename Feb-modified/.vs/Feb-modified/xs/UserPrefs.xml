@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7E3BD05E-ABF9-4A37-8B14-E011C1B32B30}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Feb-modified/Program.cs">
+    <Files>
+      <File FileName="Feb-modified/Program.cs" Line="70" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Feb-modified" expanded="True">
+            <Node name="Feb-modified" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Feb-modified PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

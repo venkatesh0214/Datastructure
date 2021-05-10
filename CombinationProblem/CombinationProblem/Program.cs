@@ -1,12 +1,23 @@
 ﻿using System;
 
+
 namespace CombinationProblem
 {
     class MainClass
     {
-        /*public static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            PalindromeCheck p = new PalindromeCheck();
+            //StringCombination s = new StringCombination();
+            StringCombination.GetPermutations("cats",true);
+
+            //bool a = p.checkpalindrome("ciavic");
+
+           // Console.WriteLine(a.ToString());
+
+            Console.ReadLine();
+
+            /*Console.WriteLine("Hello World!");
 
             int[] arr = { 1, 2, 3, 4, 5 };
             int r = 3;
@@ -21,8 +32,8 @@ namespace CombinationProblem
             char[] data1 = new char[arr.Length-1];
 
             CombinationProblemChar(arr1,data1,0,arr1.Length);
-            Console.ReadKey();
-        }*/
+            Console.ReadKey(); */
+        }
 
         public static void CombinationProblem(int[] arr, int[] data, int start,int end, int index, int r)
         {

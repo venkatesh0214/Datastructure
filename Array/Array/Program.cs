@@ -7,14 +7,18 @@ namespace Array
         public static void Main(string[] args)
         {
             Console.WriteLine("Provide your Input");
-            string i1= Console.ReadLine();
-            string i2 = Console.ReadLine();
+            // string i1= Console.ReadLine();
+            // string i2 = Console.ReadLine();
 
-            int[] in1 = i1.Split(',').Select(n => int.Parse(n)).ToArray();
-            int[] a=i2.Split(',').Select(n => int.Parse(n)).ToArray();
+            /* int[] in1 = i1.Split(',').Select(n => int.Parse(n)).ToArray();
+             int[] a=i2.Split(',').Select(n => int.Parse(n)).ToArray();
+             ArrayLeftRotation(in1[1], a); */
 
+            int[] myArray = { 3, 4, 6, 10, 11, 15 };
+            int[] alicesArray = { 1, 5, 8, 12, 14, 19 };
 
-            ArrayLeftRotation(in1[1], a);
+            MergeSortedArrays.mergeSortedArray(myArray,alicesArray);
+            Console.ReadLine();
         }
 
 

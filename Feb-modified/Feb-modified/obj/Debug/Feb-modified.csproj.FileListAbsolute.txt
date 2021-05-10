@@ -1,0 +1,6 @@
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/Feb-modified/Feb-modified/bin/Debug/Feb-modified.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/Feb-modified/Feb-modified/bin/Debug/Feb-modified.pdb
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/Feb-modified/Feb-modified/obj/Debug/Feb-modified.csprojAssemblyReference.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/Feb-modified/Feb-modified/obj/Debug/Feb-modified.csproj.CoreCompileInputs.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/Feb-modified/Feb-modified/obj/Debug/Feb-modified.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/Feb-modified/Feb-modified/obj/Debug/Feb-modified.pdb

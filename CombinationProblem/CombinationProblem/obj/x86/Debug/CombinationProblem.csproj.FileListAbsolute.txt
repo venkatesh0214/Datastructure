@@ -1,0 +1,12 @@
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/DotNet/CombinationProblem/CombinationProblem/bin/Debug/CombinationProblem.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/DotNet/CombinationProblem/CombinationProblem/bin/Debug/CombinationProblem.pdb
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/DotNet/CombinationProblem/CombinationProblem/obj/x86/Debug/CombinationProblem.csprojResolveAssemblyReference.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/DotNet/CombinationProblem/CombinationProblem/obj/x86/Debug/CombinationProblem.csproj.CoreCompileInputs.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/DotNet/CombinationProblem/CombinationProblem/obj/x86/Debug/CombinationProblem.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/DotNet/CombinationProblem/CombinationProblem/obj/x86/Debug/CombinationProblem.pdb
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/obj/x86/Debug/CombinationProblem.csprojAssemblyReference.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/obj/x86/Debug/CombinationProblem.csproj.CoreCompileInputs.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/obj/x86/Debug/CombinationProblem.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/obj/x86/Debug/CombinationProblem.pdb
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/bin/Debug/CombinationProblem.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/bin/Debug/CombinationProblem.pdb

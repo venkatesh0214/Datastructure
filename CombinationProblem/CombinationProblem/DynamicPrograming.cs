@@ -3,12 +3,14 @@ namespace CombinationProblem
 {
     public class DynamicPrograming
     {
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             int f = 0;
             int n = 6;
-            Console.WriteLine(n+"th Fibanachi number : "+FebonnaciNthnumber( n, f));
-        }
+            //Console.WriteLine(n+"th Fibanachi number : "+FebonnaciNthnumber( n, f));
+
+            
+        }*/
 
         public DynamicPrograming()
         {

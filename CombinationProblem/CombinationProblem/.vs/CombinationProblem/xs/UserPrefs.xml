@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DAE5A0E2-4052-426B-9814-AAB54F64F682}|Default">
+  <MonoDevelop.Ide.ItemProperties.CombinationProblem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SubSetSum.cs">
+    <Files>
+      <File FileName="PalindromeCheck.cs" Line="29" Column="38" />
+      <File FileName="Program.cs" />
+      <File FileName="StringCombination.cs" Line="17" Column="35" />
+      <File FileName="SubSetSum.cs" Line="21" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CombinationProblem" expanded="True">
+            <Node name="CombinationProblem" expanded="True">
+              <Node name="SubSetSum.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

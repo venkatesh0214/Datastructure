@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{CE41999A-CDCE-4267-B978-4F4930ED5752}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrieImplementation/Trie.cs">
+    <Files>
+      <File FileName="TrieImplementation/Program.cs" Line="16" Column="28" />
+      <File FileName="TrieImplementation/Trie.cs" Line="38" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrieImplementation" expanded="True" selected="True">
+            <Node name="TrieImplementation" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrieImplementation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

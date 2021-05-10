@@ -1,0 +1,5 @@
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/bin/CombinationProblem.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/bin/CombinationProblem.pdb
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/obj/Debug/CombinationProblem.csproj.CoreCompileInputs.cache
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/obj/Debug/CombinationProblem.exe
+/Users/venkateshkannankaruppaiah/Venkatesh/Workspace/Datastructure/Datastructure/CombinationProblem/CombinationProblem/obj/Debug/CombinationProblem.pdb

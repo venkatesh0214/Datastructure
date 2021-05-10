@@ -9,11 +9,10 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
+		default|Any CPU = default|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1616AC82-CF5E-4641-9C8C-0BD5BD3CA52A}.Debug|x86.ActiveCfg = Debug|x86
-		{1616AC82-CF5E-4641-9C8C-0BD5BD3CA52A}.Debug|x86.Build.0 = Debug|x86
-		{1616AC82-CF5E-4641-9C8C-0BD5BD3CA52A}.Release|x86.ActiveCfg = Release|x86
-		{1616AC82-CF5E-4641-9C8C-0BD5BD3CA52A}.Release|x86.Build.0 = Release|x86
+		{1616AC82-CF5E-4641-9C8C-0BD5BD3CA52A}.default|Any CPU.ActiveCfg = default|Any CPU
+		{1616AC82-CF5E-4641-9C8C-0BD5BD3CA52A}.default|Any CPU.Build.0 = default|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4A012DC0-E9CD-49D9-BF97-C7434CBAE41F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeightedJobScheduling/Program.cs">
+    <Files>
+      <File FileName="WeightedJobScheduling/Program.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeightedJobScheduling" expanded="True">
+            <Node name="WeightedJobScheduling" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeightedJobScheduling FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
